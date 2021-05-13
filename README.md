@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi, I'm Nick Taylor 🌏
+### I'm the FullStack Developer | Software Engineer | Horror Movie Fan | Musician
 
-<!--
-**ntaylor6422/ntaylor6422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About
+- 🎓 Graduate of Code Chrysalis Coding Bootcamp 
+- 👀 I'm currently focusing on **web** and **android development**
+- ⚙️ I use daily: `Vue`, `NuxtJS`, `React`, `NextJS`, `.js`, `.html`, `.css`.
+- 🔭 I'm currently learning **NextJS & Golang**
+- 💬 Ask me about: everything especially about **tech, movies, series**
 
-Here are some ideas to get you started:
+### 📫 Reach me
+[![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Acontact.ntaylor6422%40gmail.com)](mailto:contact.ntaylor6422@gmail.com)
+[![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnicktdev)](https://linkedin.com/in/nicktdev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
