@@ -1,5 +1,6 @@
 ## Hi, I'm Nick Taylor 🌏
-### I'm the FullStack Developer | Software Engineer | Horror Movie Fan | Musician
+### I'm a FullStack Developer | Software Engineer | Horror Movie Fan | Musician
+### American based in Saitama, Japan
 
 ### 🚀 About
 - 🎓 Graduate of Code Chrysalis Coding Bootcamp 
