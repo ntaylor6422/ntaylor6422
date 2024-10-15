@@ -4,9 +4,9 @@
 
 ### 🚀 About
 - 🎓 Graduate of Code Chrysalis Coding Bootcamp 
-- 👀 I'm currently focusing on **web** and **android development**
-- ⚙️ I use daily: `Vue`, `NuxtJS`, `React`, `NextJS`, `.js`, `.html`, `.css`.
-- 🔭 I'm currently learning **NextJS & Golang**
+- 👀 I'm currently focusing on **web** and **big data**
+- ⚙️ I use daily: `Javascript`, `Typescript`, `Ruby`.
+- 🔭 I'm currently learning **Rust & Svelte**
 - 💬 Ask me about: everything especially about **tech, movies, series**
 
 ### 📫 Reach me
